@@ -22,7 +22,6 @@ This project demonstrates the development of a business-oriented payroll applica
 
 The project is designed with an emphasis on **maintainability, scalability, clean organization, and real-world business requirements**.
 
----
 
 ## ✨ Key Features
 
