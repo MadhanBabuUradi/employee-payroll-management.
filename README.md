@@ -4,7 +4,6 @@ A **secure and scalable Employee Payroll Management System** designed to simplif
 
 The system focuses on implementing **real-world payroll business logic**, employee data management, role-based access control, salary calculations, deductions, and payroll history.
 
----
 
 ## 📌 Overview
 
